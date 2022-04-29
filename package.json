@@ -1,13 +1,15 @@
 {
-  "name": "airdrop",
+  "name": "solana-airdrop",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "description": "solana airdrop client side",
+  "main": "index.ts",
+  "keywords": [
+    "solana",
+    "airdrop",
+    "solana airdrop",
+    "solana web3js"
+  ],
+  "author": "avatarfreak",
   "license": "ISC",
   "devDependencies": {
     "@solana/web3.js": "^1.41.0",
