@@ -46,8 +46,21 @@
   > `new Connection("http://127.0.0.1:8899", "confirmed")`
 - Devnet
   > `new Connection(clusterApiUrl("devnet"), 'confirmed')`
-- mainet (At the time of writing)
+- mainet (_At the time of writing_)
+
   > `new Connection(clusterApiUrl("mainnet-beta"), 'confirmed')`
+
+---
+
+### **_*Run in terminal*_**
+
+> - <font color="orange">**_In first terminal_**</font>
+
+        npx ts-node index.ts
+
+> - <font color="orange">**_In second terminal_**</font>
+
+         solana-test-validator
 
 ### Authors
 
