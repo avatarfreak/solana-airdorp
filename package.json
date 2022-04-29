@@ -2,7 +2,7 @@
   "name": "solana-airdrop",
   "version": "1.0.0",
   "description": "solana airdrop client side",
-  "main": "index.ts",
+  "main": "index.s",
   "keywords": [
     "solana",
     "airdrop",
