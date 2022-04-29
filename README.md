@@ -64,4 +64,4 @@
 
 ### Authors
 
-author: [avatarfreak ](https://github.com/avatarfreak)
+author: [avatarfreak](https://github.com/avatarfreak)
